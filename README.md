@@ -1,6 +1,6 @@
 ## Olá! Eu sou Neto, o Dev 👋
 
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedor Full-Stack
 - 🔍 Aprendendo novas tecnologias
 
