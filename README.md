@@ -15,7 +15,8 @@
 <div><br>
   <br><br><img width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> -
   <img width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -
-  <img width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -
+  <img width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <br><br>
+  <img width="30" align="center" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" /> -
   <img width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
   <img width="150" align="right" src="https://cdn.discordapp.com/attachments/1118178250418573376/1143891239436042371/readme.gif" />
 </div>
